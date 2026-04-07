@@ -4,7 +4,7 @@
 
 ---
 
-## Paso 0 — Verifica el proveedor y exige factura electrónica
+## Paso 0 — Verifica el proveedor y exige factura
 
 Antes de comprar cualquier cosa, confirma que el proveedor esté en la lista de proveedores autorizados de la Iglesia. Por lo general las compras se hacen siempre en los mismos lugares.
 
