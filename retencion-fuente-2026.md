@@ -1,5 +1,5 @@
 # Retención en la Fuente — Guía Práctica 2026
-**NIT:** 678914420 | **Responsabilidad 07** — Agente retenedor
+**NIT:**  | **Responsabilidad 07** — Agente retenedor
 
 > Antes de pagar cualquier factura, sigue estos pasos en orden.
 
@@ -7,15 +7,15 @@
 
 ## Paso 0 — Verifica el proveedor y exige factura electrónica
 
-Antes de comprar cualquier cosa, confirma que el proveedor esté en la lista de proveedores autorizados de la entidad. Por lo general las compras se hacen siempre en los mismos lugares.
+Antes de comprar cualquier cosa, confirma que el proveedor esté en la lista de proveedores autorizados de la Iglesia. Por lo general las compras se hacen siempre en los mismos lugares.
 
 Cuando vayas a pagar, diles desde el principio:
 
-> _"La compra es a nombre de la empresa, NIT 678914420, y necesito factura electrónica."_
+> _"La compra es a nombre de la empresa, NIT xxxxxx, y necesito factura, preferiblemente electrónica."_
 
 Los tiquetes o recibos de caja que imprimen en la registradora **no sirven como soporte contable** y no tienen validez tributaria. Si te entregan uno, no lo botes — tienes dos obligaciones con ese papel:
 
-- 📲 Envía una foto por **WhatsApp al número 44444**
+- 📲 Envía una foto por **WhatsApp a David**
 - 📄 Entrégalo **físicamente el viernes**
 
 ---
