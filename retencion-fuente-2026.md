@@ -114,6 +114,10 @@ Suma todo lo retenido durante el mes y decláralos a la DIAN en el **Formulario 
 ☐ 4. ¿Es declarante o no declarante? → Aplico el % correspondiente
 ```
 
+## ¿Tienes dudas sobre esta guía?
+
+👉 [**Pregúntale a Claude sobre la guía de retención**](https://claude.ai/new?q=Eres+un+asistente+experto+en+retenci%C3%B3n+en+la+fuente.+Tengo+una+gu%C3%ADa+publicada+en+GitHub%2C+l%C3%A9ela+y+responde+mis+preguntas+bas%C3%A1ndote+en+ella.+Lo+primero+que+tienes+que+hacer+es+explicarla.+La+gu%C3%ADa+est%C3%A1+en%3A+https%3A%2F%2Fgithub.com%2Fiamdavid2%2Fretencion%2Fblob%2Fmain%2Fretencion-fuente-2026.md)
+
 ---
 
 *Fuente: DIAN — Datos retención en la fuente año 2026*
