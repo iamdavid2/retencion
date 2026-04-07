@@ -97,7 +97,7 @@ Lo que pagas al proveedor = Valor factura − Retención
 
 ---
 
-## Al final del mes
+## Al final del mes la Iglesia 
 
 Suma todo lo retenido durante el mes y decláralos a la DIAN en el **Formulario 350** (declaración mensual de retención en la fuente).
 
