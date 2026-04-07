@@ -1,5 +1,4 @@
 # Retención en la Fuente — Guía Práctica 2026
-**NIT:**  | **Responsabilidad 07** — Agente retenedor
 
 > Antes de pagar cualquier factura, sigue estos pasos en orden.
 
